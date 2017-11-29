@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bbbdddhhhzzz/lrjs/issues"
   },
-  "homepage": "https://github.com/bbbdddhhhzzz/lrjs#readme"
+  "homepage": "https://github.com/bbbdddhhhzzz/lrjs#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
 }
